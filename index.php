@@ -2,6 +2,7 @@
 
 session_start();
 
+
 ?>
 
 
@@ -38,8 +39,6 @@ session_start();
                 </div>
             </div>
         </nav>
-
-
 
         <!-- Header-->
          <style>

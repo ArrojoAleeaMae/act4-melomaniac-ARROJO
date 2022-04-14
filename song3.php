@@ -29,6 +29,8 @@
                 </div>
             </div>
         </nav>
+
+
         <!-- Header-->
         </header>
         <!-- About section-->
@@ -128,8 +130,6 @@ body {
                         echo "<p> A wondrous place </p>";
                         echo "<p> For you and me </p>";
                         echo "<br/>";
-
-
                         ?>
 
 
@@ -141,6 +141,8 @@ body {
         <footer class="py-4 bg-danger">
             <div class="container px-4"><p class="m-0 text-center text-white">Copyright &copy; 2022. Aleea Mae Meneses Arrojo</p></div>
         </footer>
+
+        
         <!-- Bootstrap core JS-->
         <script src="js/bootstrap.bundle.min.js"></script>
         <!-- Core theme JS-->

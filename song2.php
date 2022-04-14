@@ -29,6 +29,8 @@
                 </div>
             </div>
         </nav>
+
+
         <!-- Header-->
         </header>
         <!-- About section-->
@@ -57,7 +59,7 @@ body {
 
                         echo "<h1 class='text-info'>Beauty and the Beast</h1>";
                         echo "<p class='lead '>Ariana Grande & John Legend</p>";
-                        echo "<p class='blockquote-footer '>  from 'Beauty and the Beast' soundtrack version</p>"; 
+                        echo "<p class='blockquote-footer '>  from 'BEAUTY AND THE BEAST' soundtrack version</p>"; 
                 
 
                         echo "<p> Tale as old as time </p>";
@@ -122,6 +124,8 @@ body {
         <footer class="py-4 bg-danger">
             <div class="container px-4"><p class="m-0 text-center text-white">Copyright &copy; 2022. Aleea Mae Meneses Arrojo</p></div>
         </footer>
+
+
         <!-- Bootstrap core JS-->
         <script src="js/bootstrap.bundle.min.js"></script>
         <!-- Core theme JS-->

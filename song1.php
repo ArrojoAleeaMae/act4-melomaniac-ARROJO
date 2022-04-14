@@ -37,6 +37,7 @@
                 <div class="row gx-4 justify-content-center">
                     <div class="col-lg-12 text-center">
                      
+
                       <style>
 body {
     background: url(images/mulan.png);
@@ -75,7 +76,6 @@ body {
                         echo "<p> When will my reflection show who I am inside</p>";
                         echo "<p> When will my reflection show who I am inside</p>";
                         echo "<br/>";
-
                         ?>
 
 

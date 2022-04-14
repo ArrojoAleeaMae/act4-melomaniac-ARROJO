@@ -29,6 +29,8 @@
                 </div>
             </div>
         </nav>
+
+
         <!-- Header-->
         </header>
         <!-- About section-->
@@ -57,7 +59,7 @@ body {
 
                         echo "<h1 class='text-info'>Part of your World</h1>";
                         echo "<p class='lead '>Carly Rae Jepsen</p>";
-                        echo "<p class='blockquote-footer '>  from 'The Little Mermaid': Diamond Edition</p>"; 
+                        echo "<p class='blockquote-footer '>  from 'THE LITTLE MERMAID': Diamond Edition</p>"; 
                 
 
                         echo "<p> Maybe he's right </p>";
@@ -146,6 +148,8 @@ body {
         <footer class="py-4 bg-danger">
             <div class="container px-4"><p class="m-0 text-center text-white">Copyright &copy; 2022. Aleea Mae Meneses Arrojo</p></div>
         </footer>
+
+
         <!-- Bootstrap core JS-->
         <script src="js/bootstrap.bundle.min.js"></script>
         <!-- Core theme JS-->

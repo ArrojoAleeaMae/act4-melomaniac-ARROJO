@@ -58,7 +58,7 @@ body {
                         echo "<h1 class='text-info'>Into The Unknown</h1>";
                         echo "<p class='lead '>Idina Menzel </p>";
                         echo "<p class='blockquote-footer '>  feat. AURORA</p>";
-                        echo "<p class='blockquote-footer '>  from 'Frozen II' soundtrack</p>"; 
+                        echo "<p class='blockquote-footer '>  from 'FROZEN 2' soundtrack</p>"; 
                 
 
                         echo "<p> I can hear you but I won't </p>";
@@ -142,6 +142,8 @@ body {
         <footer class="py-4 bg-danger">
             <div class="container px-4"><p class="m-0 text-center text-white">Copyright &copy; 2022. Aleea Mae Meneses Arrojo</p></div>
         </footer>
+
+
         <!-- Bootstrap core JS-->
         <script src="js/bootstrap.bundle.min.js"></script>
         <!-- Core theme JS-->
